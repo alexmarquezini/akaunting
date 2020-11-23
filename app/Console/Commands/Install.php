@@ -39,7 +39,7 @@ class Install extends Command
                             {--company-email=my@company.com : Email of the company}
                             {--admin-email= : Admin user email}
                             {--admin-password= : Admin user password}
-                            {--locale=en-GB : Language used in the app}
+                            {--locale=pt-BR : Language used in the app}
                             ';
 
     /**
